@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm LAXITA SOJITRA</h1>
 
-<!--
-**Laxitasojitra/Laxitasojitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxitasojitra&label=Profile%20views&color=0e75b6&style=flat" alt="laxitasojitra" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **laxitasojitra00@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/laxita_128" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/laxita_128" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/laxita_sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laxita_sojitra" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/\laxitasojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="\laxitasojitra" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxitasojitra&" alt="laxitasojitra" /></p>
