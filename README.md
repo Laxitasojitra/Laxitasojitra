@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif)](https://laxitasojitra.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Laxita Sojitra</h1>
 <h3 align="center">A passionate Software Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
