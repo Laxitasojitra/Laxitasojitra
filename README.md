@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Laxitasojitra&label=Profile%20views&color=0e75b6&style=flat" alt="Laxitasojitra" /> </p>
 
-- 🔭 I’m currently working on **whatsapp chat analyser project which is developed in python**
+- 🔭 I’m currently working on **whatsapp chat analyser project which is developed in python and working as a Python Developer intern at WEBITO INFOTECH**
 
 - 📫 How to reach me **laxitasojitra00@gmail.com**
 
